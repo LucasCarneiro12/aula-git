@@ -1,1 +1,5 @@
-12354
+git init
+ git add .
+git commit -m 'fist commit'
+
+git push -u origin main
